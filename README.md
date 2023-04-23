@@ -1,6 +1,6 @@
 # Username
 
-# React, CSS
+## React, CSS
 
 ## Available Scripts
 
